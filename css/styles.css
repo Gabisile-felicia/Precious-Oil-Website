@@ -1,1 +1,14 @@
-body {background: pink;}
+
+h1 {font-size:90px;}
+.logo {max-width: 70px;
+    border-radius: 20px;
+}
+.container {background-color: pink;
+    padding:15px;
+    text-align: center;
+    margin-top: 60px;;
+}
+.homepagepic {max-width: 350px;
+margin: 0%;
+padding: 0%;}
+.colume {border: 2px black;}
